@@ -4,10 +4,10 @@ En este repositorio se encuentran todos los proyectos realizados durante el Más
 
 ## <u>**CONTENIDO**</u>:
 
-01. :knot: :floppy_disk:`MySQL`:
+01. :knot:`MySQL`:
 Desarrollo de un modelo entidad-relación basado en una base de datos proporcionada, junto con consultas posteriores para analizar y extraer información relevante.
 
-02. 🗄️ :floppy_disk:`MongoDB`:
+02. 🗄️`MongoDB`:
 Ejecución de consultas sobre una base de datos que recopila causas de fallecimiento en España. Incluye un archivo PDF con la descripción detallada de la base de datos.
 
 03. :snake:`Python`:
@@ -25,7 +25,7 @@ Limpieza y modelado de datos en diversos conjuntos de datos. Las técnicas utili
 06. :robot:`Machine Learning`:
 Limpieza y modelado de una base de datos multiclase, implementando algoritmos de aprendizaje supervisado.
 
-07. :bomb: :memo:`Text Mining`:
+07. :memo:`Text Mining`:
 Clasificación de tweets según la presencia o ausencia de ciberacoso. Se lleva a cabo un análisis exploratorio de los textos, seguido por la modelización y evaluación de los clasificadores.
 
 08. :speech_balloon:`PySpark`:
