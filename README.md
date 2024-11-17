@@ -17,19 +17,18 @@ Ejecución de consultas sobre una base de datos que recopila causas de fallecimi
     - **Avanzado:** Creación de una base de datos personalizada mediante funciones y generación de diferentes tipos de gráficos para su análisis.
 
 04. :bar_chart:`Tableau`:
-
 Diseño de un dashboard interactivo para la visualización y análisis de datos.
 
-05. `Data Mining`:
+05. :pick:`Data Mining`:
 Limpieza y modelado de datos en diversos conjuntos de datos. Las técnicas utilizadas incluyen: imputación de valores perdidos, regresión lineal, análisis de series temporales, reducción de dimensionalidad y clusterización.
 
 06. :robot:`Machine Learning`:
 Limpieza y modelado de una base de datos multiclase, implementando algoritmos de aprendizaje supervisado.
 
-07. `Text Mining`:
+07. :bomb: :memo:`Text Mining`:
 Clasificación de tweets según la presencia o ausencia de ciberacoso. Se lleva a cabo un análisis exploratorio de los textos, seguido por la modelización y evaluación de los clasificadores.
 
-08. `PySpark`:
+08. :speech_balloon:`PySpark`:
 Manipulación y transformación de datos empleando la librería pyspark.sql en la plataforma Databricks, alojada en Azure.
 
 09. :brain:`Deep Learning`:
@@ -38,10 +37,10 @@ Manipulación y transformación de datos empleando la librería pyspark.sql en l
 
     - **Redes Convolucionales:** Implementación de redes neuronales convolucionales para clasificar un conjunto de imágenes.
 
-10. `Advanced Visualization`:
+10. :mag:`Advanced Visualization`:
 Análisis de varios conjuntos de datos relacionados con la incidencia y mortalidad del COVID-19 mediante visualizaciones avanzadas. Se incluyen mapas de calor para identificar patrones geográficos de incidencia y mortalidad, entre otras representaciones gráficas.
 
-11. :mortar_board:`TFM`: En este apartado encontramos los códigos realizados para construir un sistema RAG, el código del proyecto se ha dividido en diferentes notebooks según el objetivo de cada una de las partes:
+11. :woman_technologist:`TFM`: En este apartado encontramos los códigos realizados para construir un sistema RAG, el código del proyecto se ha dividido en diferentes notebooks según el objetivo de cada una de las partes:
     
     - **"CÓDIGO LIMPIEZA DE DATOS.ipynb":** en este código se realiza la limpeza de la base de datos. No es necesario ejecutarlo para poder ejecutar el RAG, sin embargo, si se desea su ejecución se facilita la base de datos empleada en el código en la carpeta "DATOS" (también se deja a disposición el archivo .json con las contractions, archivo necesario para la ejecución del notebook)
 
