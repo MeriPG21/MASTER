@@ -7,7 +7,7 @@ En este repositorio se encuentran todos los proyectos realizados durante el Más
 01. :knot: :floppy_disk:`MySQL`:
 Desarrollo de un modelo entidad-relación basado en una base de datos proporcionada, junto con consultas posteriores para analizar y extraer información relevante.
 
-02. :database: :floppy_disk:`MongoDB`:
+02. 🗄️ :floppy_disk:`MongoDB`:
 Ejecución de consultas sobre una base de datos que recopila causas de fallecimiento en España. Incluye un archivo PDF con la descripción detallada de la base de datos.
 
 03. :snake:`Python`:
