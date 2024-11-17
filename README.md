@@ -4,7 +4,7 @@ En este repositorio se encuentran todos los proyectos realizados durante el Más
 
 ## <u>**CONTENIDO**</u>:
 
-01. `MySQL`:
+01. `MySQL`:ddd
 Desarrollo de un modelo entidad-relación basado en una base de datos proporcionada, junto con consultas posteriores para analizar y extraer información relevante.
 
 02. `MongoDB`:
