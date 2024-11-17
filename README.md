@@ -4,25 +4,26 @@ En este repositorio se encuentran todos los proyectos realizados durante el Más
 
 ## <u>**CONTENIDO**</u>:
 
-01. `MySQL`:
+01. :floppy_disk:`MySQL`:
 Desarrollo de un modelo entidad-relación basado en una base de datos proporcionada, junto con consultas posteriores para analizar y extraer información relevante.
 
-02. `MongoDB`:
+02. :floppy_disk:`MongoDB`:
 Ejecución de consultas sobre una base de datos que recopila causas de fallecimiento en España. Incluye un archivo PDF con la descripción detallada de la base de datos.
 
-03. `Python`:
+03. :snake:`Python`:
 
     - **Básico:** Desarrollo de un juego de adivinanzas que exporta resultados en un archivo Excel. El proyecto incluye módulos .py para su funcionalidad.
 
     - **Avanzado:** Creación de una base de datos personalizada mediante funciones y generación de diferentes tipos de gráficos para su análisis.
 
-04. `Tableau`:
+04. :bar_chart:`Tableau`:
+
 Diseño de un dashboard interactivo para la visualización y análisis de datos.
 
 05. `Data Mining`:
 Limpieza y modelado de datos en diversos conjuntos de datos. Las técnicas utilizadas incluyen: imputación de valores perdidos, regresión lineal, análisis de series temporales, reducción de dimensionalidad y clusterización.
 
-06. `Machine Learning`:
+06. :robot:`Machine Learning`:
 Limpieza y modelado de una base de datos multiclase, implementando algoritmos de aprendizaje supervisado.
 
 07. `Text Mining`:
@@ -31,7 +32,7 @@ Clasificación de tweets según la presencia o ausencia de ciberacoso. Se lleva 
 08. `PySpark`:
 Manipulación y transformación de datos empleando la librería pyspark.sql en la plataforma Databricks, alojada en Azure.
 
-09. `Deep Learning`:
+09. :brain:`Deep Learning`:
 
     - **Redes Densas:** Aplicación de redes neuronales densas a un conjunto de datos sobre calidad del vino, demostrando comprensión de este tipo de arquitecturas.
 
@@ -40,7 +41,7 @@ Manipulación y transformación de datos empleando la librería pyspark.sql en l
 10. `Advanced Visualization`:
 Análisis de varios conjuntos de datos relacionados con la incidencia y mortalidad del COVID-19 mediante visualizaciones avanzadas. Se incluyen mapas de calor para identificar patrones geográficos de incidencia y mortalidad, entre otras representaciones gráficas.
 
-11. `TFM`: En este apartado encontramos los códigos realizados para construir un sistema RAG, el código del proyecto se ha dividido en diferentes notebooks según el objetivo de cada una de las partes:
+11. :mortar_board:`TFM`: En este apartado encontramos los códigos realizados para construir un sistema RAG, el código del proyecto se ha dividido en diferentes notebooks según el objetivo de cada una de las partes:
     
     - **"CÓDIGO LIMPIEZA DE DATOS.ipynb":** en este código se realiza la limpeza de la base de datos. No es necesario ejecutarlo para poder ejecutar el RAG, sin embargo, si se desea su ejecución se facilita la base de datos empleada en el código en la carpeta "DATOS" (también se deja a disposición el archivo .json con las contractions, archivo necesario para la ejecución del notebook)
 
