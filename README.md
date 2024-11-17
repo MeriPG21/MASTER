@@ -4,7 +4,7 @@ En este repositorio se encuentran todos los proyectos realizados durante el Más
 
 ## <u>**CONTENIDO**</u>:
 
-01. :floppy_disk:`MySQL`:
+01. :knot: :floppy_disk:`MySQL`:
 Desarrollo de un modelo entidad-relación basado en una base de datos proporcionada, junto con consultas posteriores para analizar y extraer información relevante.
 
 02. :floppy_disk:`MongoDB`:
